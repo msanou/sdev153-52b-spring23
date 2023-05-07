@@ -1,0 +1,47 @@
+body {
+  outline: 2px solid white;
+  background-color: rgb(14, 99, 56);
+  background-image: url("africa-6129598_1280.png");
+  background-size: 100%;
+  background-repeat:repeat-y;
+  background-position: bottom 10px right;
+  color: rgb(233, 12, 12);
+  font-size: 20px;
+}
+
+h1 {
+  font-family: Arial, "Times New Roman";
+  font-size: 30px;
+  color: #fad12fdf;
+
+}
+h2{
+  color:green;
+  font-size:25px;
+}
+
+P{
+  color:rgb(233, 12, 12);
+  font-size: 20px;
+}
+.title{
+  color:orange ;
+  font-size: 25px;
+}
+.subtitle{
+  color: orange;
+  font-size: 25px;
+}
+.truetitle{
+  color:orange;
+  font-size: 25px;
+}
+h3{
+  color: green;
+  font-size: 25px;
+}
+th{
+  color:green;
+  font-size: 25px;
+}
+
